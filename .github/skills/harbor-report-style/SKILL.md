@@ -1,6 +1,6 @@
 ---
 name: harbor-report-style
-description: Writing style.
+description: Template and style rules for the weekly Harbor status report to DemoFoods. Use this when asked to write, draft or check a Harbor status report, a weekly update or a project status for Laura Chen.
 ---
 
 # Harbor status report style
